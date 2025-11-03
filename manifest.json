@@ -1,7 +1,7 @@
 {
   "name": "My Agreement App",
   "short_name": "Agreement",
-  "start_url": "/index.html",
+  "start_url": "https://marufh036-ctrl.github.io/myapp/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
@@ -17,4 +17,5 @@
       "type": "image/png"
     }
   ]
+
 }
