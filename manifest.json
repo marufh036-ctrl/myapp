@@ -1,5 +1,5 @@
 {
-  "name": "My Agreement App",
+  "name": "Agreement App Developed by Mozahidul Islam",
   "short_name": "Agreement",
   "start_url": "/myapp/index.html",
   "display": "standalone",
@@ -19,6 +19,7 @@
   ]
 
 }
+
 
 
 
